@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im trying to learn everything about Data
+Based in London trying to learn everything about Data
 
 
 # 💻 Tech Stack:
